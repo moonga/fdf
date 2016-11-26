@@ -1,0 +1,2 @@
+gcc triangle.c main.c isometric.c command.c button.c keypress.c display.c env.c draw.c parallel.c -lmlx -lX11 -lXext -L./libft/ -lft 
+
